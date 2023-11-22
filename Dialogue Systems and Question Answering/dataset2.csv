@@ -1,0 +1,313 @@
+﻿Sentence;Intent
+Can you recommend a good Italian restaurant nearby?;find_restaurant
+I'm craving sushi - where's the best place to get it around here?;find_restaurant
+What's the best burger joint in town?;find_restaurant
+I'm looking for a romantic restaurant with a view any suggestions?;find_restaurant
+I need to find a family-friendly restaurant with a kids' menu any ideas?;find_restaurant
+I'm trying to find a restaurant that serves vegetarian food any recommendations?;find_restaurant
+Where's the best place to get brunch around here?;find_restaurant
+Can you suggest a restaurant with outdoor seating?;find_restaurant
+I'm looking for a place to celebrate a special occasion any recommendations?;find_restaurant
+What's the best seafood restaurant in town?;find_restaurant
+I'm in the mood for Thai food - where's the best place to go?;find_restaurant
+I'm looking for a restaurant with live music any ideas?;find_restaurant
+Can you suggest a restaurant with a good happy hour?;find_restaurant
+I need to find a restaurant that's open late any suggestions?;find_restaurant
+What's the best pizza place around here?;find_restaurant
+I'm trying to find a restaurant that's budget-friendly any recommendations?;find_restaurant
+Where's the best place to get a steak in town?;find_restaurant
+I'm looking for a trendy restaurant with a modern vibe any ideas?;find_restaurant
+Can you suggest a restaurant with a good wine list?;find_restaurant
+I need to find a restaurant that's good for a big group any suggestions?;find_restaurant
+What's the best place to get Chinese food around here?;find_restaurant
+I'm trying to find a restaurant that's wheelchair accessible any recommendations?;find_restaurant
+Where's the best place to get a quick bite to eat?;find_restaurant
+I'm looking for a restaurant with a view of the water any ideas?;find_restaurant
+Can you suggest a restaurant that's good for a first date?;find_restaurant
+I need to find a restaurant that's good for a business lunch any suggestions?;find_restaurant
+What's the best place to get Indian food in town?;find_restaurant
+I'm trying to find a restaurant that's good for a romantic dinner any recommendations?;find_restaurant
+Where's the best place to get a sandwich around here?;find_restaurant
+I'm looking for a restaurant that's good for a birthday party any ideas?;find_restaurant
+When is the next bus to downtown?;find_next_bus
+What time does the bus to the airport leave?;find_next_bus
+How often do the buses run on this route?;find_next_bus
+Can you tell me which bus goes to the shopping mall?;find_next_bus
+Is there a bus that goes to the train station?;find_next_bus
+What time is the last bus of the day?;find_next_bus
+How much does a bus ticket cost?;find_next_bus
+Which bus should I take to get to the museum?;find_next_bus
+What's the schedule for the bus to the university?;find_next_bus
+Is there a bus that goes to the beach?;find_next_bus
+What time is the first bus in the morning?;find_next_bus
+How long does it take to get to the city center by bus?;find_next_bus
+Can you tell me which bus goes to the park?;find_next_bus
+When is the next bus to the concert hall?;find_next_bus
+How often do the buses run on weekends?;find_next_bus
+Which bus should I take to get to the hospital?;find_next_bus
+What's the schedule for the express bus to downtown?;find_next_bus
+Is there a night bus that goes to this neighborhood?;find_next_bus
+How much does a monthly bus pass cost?;find_next_bus
+Can you tell me which bus goes to the movie theater?;find_next_bus
+What time is the next bus to the stadium?;find_next_bus
+How long does it take to get to the airport by bus?;find_next_bus
+Which bus should I take to get to the zoo?;find_next_bus
+What's the schedule for the bus to the shopping center?;find_next_bus
+Is there a bus that goes to the downtown area?;find_next_bus
+When is the next bus to the amusement park?;find_next_bus
+How often do the buses run on holidays?;find_next_bus
+Can you tell me which bus goes to the art museum?;find_next_bus
+What's the forecast for this weekend?;weather_forecast
+Is it going to rain tomorrow?;weather_forecast
+What's the weather going to be like for my trip next week?;weather_forecast
+Will it be hot today?;weather_forecast
+Can you tell me if it's going to snow this week?;weather_forecast
+What's the temperature going to be tomorrow?;weather_forecast
+Do I need to bring an umbrella today?;weather_forecast
+Is it going to be windy this afternoon?;weather_forecast
+What's the weather going to be like in the evening?;weather_forecast
+Can you tell me if it's going to be foggy tomorrow morning?;weather_forecast
+Is there a chance of thunderstorms today?;weather_forecast
+What's the weather like in the mountains this time of year?;weather_forecast
+Do I need to wear a jacket today?;weather_forecast
+What's the UV index going to be like tomorrow?;weather_forecast
+Can you tell me if it's going to be humid today?;weather_forecast
+Is there a heat wave coming this week?;weather_forecast
+What's the weather like on the coast in the summer?;weather_forecast
+Do I need to worry about air quality today?;weather_forecast
+What's the pollen count going to be like tomorrow?;weather_forecast
+Can you tell me if it's going to be cloudy this afternoon?;weather_forecast
+Is there a chance of a tornado today?;weather_forecast
+What's the weather like in the desert in the winter?;weather_forecast
+Do I need to worry about wildfires this week?;weather_forecast
+What's the weather going to be like in the Caribbean in March?;weather_forecast
+Can you tell me if it's going to be hazy tomorrow?;weather_forecast
+Is there a chance of a hurricane this season?;weather_forecast
+What's the weather like in the tropics in the fall?;weather_forecast
+Do I need to bring sunscreen today?;weather_forecast
+What's the air pressure going to be like tomorrow?;weather_forecast
+Can you tell me if it's going to be smoggy today?;weather_forecast
+Can you recommend a good restaurant in the area?;find_restaurant
+I'm looking for a nice place to eat dinner tonight. Any suggestions?;find_restaurant
+Where's the best place to get sushi around here?;find_restaurant
+I need to find a restaurant for a business meeting. What do you recommend?;find_restaurant
+What's the most popular restaurant in town?;find_restaurant
+Is there a good Italian restaurant nearby?;find_restaurant
+I'm in the mood for some Chinese food. Where's the best place to go?;find_restaurant
+Can you suggest a nice restaurant with outdoor seating?;find_restaurant
+What's the best seafood restaurant in the area?;find_restaurant
+I want to take my girlfriend to a fancy restaurant for our anniversary. Any ideas?;find_restaurant
+Is there a good vegetarian restaurant around here?;find_restaurant
+I'm looking for a restaurant that has a private room for a party. Any suggestions?;find_restaurant
+Where's the best place to get a steak in this town?;find_restaurant
+Can you recommend a restaurant with a view?;find_restaurant
+What's the best restaurant for breakfast in the area?;find_restaurant
+Is there a good Mexican restaurant nearby?;find_restaurant
+I need to find a restaurant that's open late. Any ideas?;find_restaurant
+Where's the best place to get pizza in this town?;find_restaurant
+Can you suggest a nice restaurant for a first date?;find_restaurant
+What's the best restaurant for a family dinner?;find_restaurant
+Is there a good sushi buffet in town?;find_restaurant
+I'm looking for a restaurant that's affordable but still nice. What do you recommend?;find_restaurant
+Where's the best place to get barbecue in this town?;find_restaurant
+Can you recommend a restaurant with live music?;find_restaurant
+What's the best restaurant for a romantic dinner?;find_restaurant
+Is there a good Indian restaurant nearby?;find_restaurant
+I need to find a restaurant that's kid-friendly. Any suggestions?;find_restaurant
+Where's the best place to get a burger in this town?;find_restaurant
+Can you suggest a nice restaurant for a group of friends?;find_restaurant
+What's the best restaurant for a business lunch?;find_restaurant
+Is there a good Thai restaurant around here?;find_restaurant
+I'm looking for a restaurant that serves local cuisine. What do you recommend?;find_restaurant
+Where's the best place to get a sandwich in this town?;find_restaurant
+Can you recommend a restaurant with a great wine list?;find_restaurant
+What's the best restaurant for a quick bite to eat?;find_restaurant
+Is there a good Korean restaurant nearby?;find_restaurant
+I need to find a restaurant that's dog-friendly. Any suggestions?;find_restaurant
+Where's the best place to get seafood in this town?;find_restaurant
+Can you suggest a nice restaurant with a fireplace?;find_restaurant
+What's the best restaurant for a birthday dinner?;find_restaurant
+Is there a good Mediterranean restaurant around here?;find_restaurant
+I'm looking for a restaurant with a rooftop bar. What do you recommend?;find_restaurant
+Where's the best place to get a salad in this town?;find_restaurant
+Can you recommend a restaurant with a garden?;find_restaurant
+What's the best restaurant for a rehearsal dinner?;find_restaurant
+Is there a good ramen restaurant nearby?;find_restaurant
+I need to find a restaurant with a private beach. Any suggestions?;find_restaurant
+Where's the best place to get Italian food in this town?;find_restaurant
+Can you suggest a nice restaurant with a fireplace?;find_restaurant
+What's the best restaurant for a graduation party?;find_restaurant
+Is there a good French restaurant around here?;find_restaurant
+I'm looking for a restaurant with a pool. What do you recommend?;find_restaurant
+Where's the best place to get a smoothie in this town?;find_restaurant
+Can you recommend a restaurant with a garden?;find_restaurant
+When does the next bus arrive at the station?;find_next_bus
+What time does the next bus leave from here?;find_next_bus
+How often do the buses run on this route?;find_next_bus
+Is there a bus that goes from here to the airport?;find_next_bus
+What is the bus schedule for today?;find_next_bus
+Can you tell me when the next bus to downtown arrives?;find_next_bus
+Which bus should I take to get to the city center?;find_next_bus
+How long does it take to get to the mall by bus?;find_next_bus
+Are there any buses that run late at night?;find_next_bus
+Can you give me information about the next bus to the train station?;find_next_bus
+Is there a bus that goes to the beach?;find_next_bus
+How much is a bus ticket to the next stop?;find_next_bus
+Is there a bus that goes to the museum?;find_next_bus
+When is the next bus to the university?;find_next_bus
+Are there any express buses to the city?;find_next_bus
+How long is the wait for the next bus?;find_next_bus
+Can you tell me the bus schedule for tomorrow?;find_next_bus
+Which bus should I take to get to the park?;find_next_bus
+Is there a bus that goes to the concert hall?;find_next_bus
+Can you tell me the bus route for this area?;find_next_bus
+Is there a bus that goes to the hospital?;find_next_bus
+How many stops are there until the next bus arrives?;find_next_bus
+Which bus goes to the downtown area?;find_next_bus
+Is there a bus that goes to the shopping center?;find_next_bus
+What time does the last bus leave from here?;find_next_bus
+When is the next bus to the stadium?;find_next_bus
+Can you tell me the bus schedule for the weekend?;find_next_bus
+Is there a bus that goes to the theater?;find_next_bus
+How much time do I have until the next bus?;find_next_bus
+Which bus should I take to get to the restaurant?;find_next_bus
+Is there a bus that goes to the amusement park?;find_next_bus
+When is the next bus to the concert venue?;find_next_bus
+Are there any double-decker buses on this route?;find_next_bus
+How many buses run on this route per day?;find_next_bus
+Which bus should I take to get to the hospital?;find_next_bus
+Is there a bus that goes to the zoo?;find_next_bus
+When does the last bus leave from the downtown area?;find_next_bus
+Can you tell me when the next express bus arrives?;find_next_bus
+Is there a bus that goes to the sports complex?;find_next_bus
+When is the next bus to the beach?;find_next_bus
+How much is a one-way bus ticket?;find_next_bus
+Which bus should I take to get to the art museum?;find_next_bus
+Is there a bus that goes to the convention center?;find_next_bus
+What is the bus schedule for the holidays?;find_next_bus
+Can you tell me when the next local bus arrives?;find_next_bus
+Is there a bus that goes to the botanical garden?;find_next_bus
+When is the next bus to the train station?;find_next_bus
+How much is a round-trip bus ticket?;find_next_bus
+Which bus should I take to get to the university library?;find_next_bus
+Is there a bus that goes to the history museum?;find_next_bus
+Can you tell me the bus schedule for the evening?;find_next_bus
+Is there a bus that goes to the aquarium?;find_next_bus
+When is the next bus to the downtown shopping district?;find_next_bus
+Which bus should I take to get to the movie theater?;find_next_bus
+Is there a bus that goes to the science museum?;find_next_bus
+What will be the temperature tomorrow?;weather_forecast
+Will it rain today?;weather_forecast
+Do I need an umbrella tomorrow?;weather_forecast
+How hot will it be this weekend?;weather_forecast
+Will there be any snow this week?;weather_forecast
+What is the weather like in London?;weather_forecast
+Can you tell me if it will be sunny this afternoon?;weather_forecast
+How windy will it be tomorrow?;weather_forecast
+Will there be any thunderstorms this week?;weather_forecast
+What's the forecast for next Tuesday?;weather_forecast
+Will it be cloudy today?;weather_forecast
+Can you give me the weather report for Paris?;weather_forecast
+Is it going to be humid tomorrow?;weather_forecast
+Will it be foggy tonight?;weather_forecast
+What is the chance of rain tomorrow?;weather_forecast
+Is it going to be hot this weekend?;weather_forecast
+What is the weather forecast for Los Angeles?;weather_forecast
+Will it be sunny in San Francisco next week?;weather_forecast
+Can you tell me if there will be any snow in New York City this month?;weather_forecast
+Will it be warm enough to wear shorts tomorrow?;weather_forecast
+What will be the high temperature today?;weather_forecast
+Is there a chance of hail tomorrow?;weather_forecast
+Will it be windy in Boston next week?;weather_forecast
+Can you give me the weather update for Miami?;weather_forecast
+What's the forecast for Seattle this weekend?;weather_forecast
+Will it be rainy in Portland tomorrow?;weather_forecast
+Is it going to be clear skies tonight?;weather_forecast
+What is the weather like in Tokyo?;weather_forecast
+Will it be cold in Chicago next week?;weather_forecast
+Can you tell me if there will be any thunderstorms in Houston this month?;weather_forecast
+What is the humidity level today?;weather_forecast
+Is it going to be overcast tomorrow?;weather_forecast
+Will it be hot in Phoenix next week?;weather_forecast
+Can you give me the weather prediction for Sydney?;weather_forecast
+What's the weather forecast for Atlanta this week?;weather_forecast
+Will it be sunny in Denver tomorrow?;weather_forecast
+What will be the low temperature tonight?;weather_forecast
+Is there a chance of a tornado tomorrow?;weather_forecast
+Will it be cloudy in Seattle next week?;weather_forecast
+Can you tell me if there will be any hurricanes this season?;weather_forecast
+What is the weather like in Vancouver?;weather_forecast
+Will it be cool enough to wear a sweater tomorrow?;weather_forecast
+What's the forecast for Dallas this weekend?;weather_forecast
+Will it be humid in New Orleans tomorrow?;weather_forecast
+Is it going to be dry this week?;weather_forecast
+What is the weather forecast for Miami Beach?;weather_forecast
+Will it be sunny in San Diego next week?;weather_forecast
+Can you tell me if it will be windy in San Francisco tomorrow?;weather_forecast
+What is the chance of a thunderstorm this afternoon?;weather_forecast
+Will it be rainy in London next week?;weather_forecast
+Is it going to be hot and humid tomorrow?;weather_forecast
+What's the weather like in Rome?;weather_forecast
+Will it be windy in Los Angeles tomorrow?;weather_forecast
+Can you give me the weather outlook for Madrid?;weather_forecast
+What's the forecast for Chicago this week?;weather_forecast
+Where can I find a good place to eat around here?;find_restaurant
+Can you recommend any nice dining spots nearby?;find_restaurant
+I'm looking for a place to have a fancy dinner, any suggestions?;find_restaurant
+Is there a popular restaurant in this area?;find_restaurant
+What are some good restaurants for a date night?;find_restaurant
+Do you know any good sushi places around here?;find_restaurant
+I'm in the mood for Italian food, where can I go?;find_restaurant
+What's the best restaurant for brunch in this neighborhood?;find_restaurant
+Can you suggest a place for a business lunch meeting?;find_restaurant
+I want to try some authentic local cuisine, where should I go?;find_restaurant
+Where can I find a restaurant with vegan options?;find_restaurant
+Is there any restaurant that is kid-friendly?;find_restaurant
+What are some good options for a quick bite to eat?;find_restaurant
+I need to find a restaurant that can accommodate a large group, any ideas?;find_restaurant
+I'm on a budget, what's the most affordable restaurant in the area?;find_restaurant
+Where can I find a restaurant with a nice view?;find_restaurant
+What's the best restaurant for a romantic dinner?;find_restaurant
+I'm craving some Mexican food, any recommendations?;find_restaurant
+What are some good places for outdoor dining?;find_restaurant
+Where can I find a restaurant that serves seafood?;find_restaurant
+What's the best place for a birthday dinner?;find_restaurant
+Do you know any good French restaurants around here?;find_restaurant
+I want to try some street food, where can I find that?;find_restaurant
+Where can I find a restaurant with live music?;find_restaurant
+Is there any restaurant that is open 24/7 in this area?;find_restaurant
+I'm looking for a restaurant with a good cocktail menu, any suggestions?;find_restaurant
+Can you recommend a restaurant with a private dining room?;find_restaurant
+What's the best place for a pre-theater dinner?;find_restaurant
+I want to try some fusion cuisine, where can I find that?;find_restaurant
+Where can I find a restaurant with a good selection of craft beer?;find_restaurant
+What's the weather like today?;weather_forecast
+Can you tell me the current weather conditions?;weather_forecast
+Is there any severe weather expected in the area?;weather_forecast
+What's the weather forecast for tomorrow?;weather_forecast
+How's the weather looking for the rest of the week?;weather_forecast
+Is there any extreme weather on the way?;weather_forecast
+How's the weather supposed to be for the weekend?;weather_forecast
+What's the weather like in [city] right now?;weather_forecast
+Is the weather expected to improve later today?;weather_forecast
+What's the weather like outside?;weather_forecast
+How's the weather going to be for the outdoor event tomorrow?;weather_forecast
+Will the weather be good for outdoor activities this weekend?;weather_forecast
+Is there a chance of rain in the forecast?;weather_forecast
+How's the weather expected to impact travel plans?;weather_forecast
+What's the weather going to be like for the game tonight?;weather_forecast
+Is the weather supposed to get better or worse?;weather_forecast
+What's the weather looking like for the concert on Friday?;weather_forecast
+Can you give me an update on the weather conditions?;weather_forecast
+How's the weather going to be for the beach trip this weekend?;weather_forecast
+What's the weather like in [location] during this time of year?;weather_forecast
+Is the weather expected to be warmer or cooler tomorrow?;weather_forecast
+Can you tell me the weather in Celsius or Fahrenheit?;weather_forecast
+How's the weather expected to impact local agriculture?;weather_forecast
+Will the weather conditions be favorable for outdoor work tomorrow?;weather_forecast
+What's the weather like in the mountains during this season?;weather_forecast
+How's the weather going to be for the outdoor wedding next week?;weather_forecast
+Is the weather expected to cause any flight cancellations?;weather_forecast
+What's the weather going to be like for the outdoor concert on Saturday?;weather_forecast
+How's the weather expected to impact outdoor festivals and events?;weather_forecast
+Can you give me a detailed weather report for the next few days?;weather_forecast
